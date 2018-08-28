@@ -9,3 +9,5 @@ Papers about few-shot learning.
   - 该论文列举出来是因为论文中讲述了`Relation Network`，刚好和**Learning to Compare: Relation Network for Few-Shot Learning**有很大的相似性
 - [Optimization as a Model for Few-Shot Learning](https://openreview.net/pdf?id=rJY0-Kcll)
   - [PyTorch](https://github.com/gitabcworld/FewShotLearning)
+- [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175)
+  - [PyTorch](https://github.com/orobix/Prototypical-Networks-for-Few-shot-Learning-PyTorch)
